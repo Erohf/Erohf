@@ -16,10 +16,3 @@ I have a genuine passion for design and am actively honing my skills in creating
 
 ### ✉️ How to reach me:
 - Email: lucasssandrade183@gmail.com
-
-
-### 📊 Some github status:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=erohf&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&hide=issues,prs&line_height=30)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erohf&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!--![Frequency Stats](https://github-readme-streak-stats.herokuapp.com/?user=erohf&theme=vision-friendly-dark&hide_border=true)-->
