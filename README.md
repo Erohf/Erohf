@@ -3,7 +3,7 @@
 
 Hello! I'm Lucas Andrade, 23, a Computer Science student at [UFBA](https://ufba.br/).
 
-I'm currently studying Angular, Java, and SQL.
+I'm currently studying Angular, Java, SQL and Git.
 
 I’m recently made a project using python to create a head soccer similar game as part of my works from college [Fut Ufba](https://github.com/Erohf/FUT_UFBA).
 
