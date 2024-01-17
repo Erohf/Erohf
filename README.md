@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/Ag2xH2J.png)](https://www.behance.net/Lucas_Andrade_Design)
-<h1 align="center">Hello 👋, I'm Lucas Andrade</h1>
+<h1 align="center">Hi 👋, I'm Lucas Andrade</h1>
 
 Hello! I'm Lucas Andrade, 23, a Computer Science student at [UFBA](https://ufba.br/).
 
