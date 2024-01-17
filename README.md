@@ -5,7 +5,7 @@ Hello! I'm Lucas Andrade, 23, a Computer Science student at [UFBA](https://ufba.
 
 Currently, I'm studying Angular, Python, Java, SQL, and Git.
 
-Recently, I completed a project using Python to create a head soccer-like game as part of my coursework [Fut Ufba](https://github.com/Erohf/FUT_UFBA).
+Recently, I collaborated with some fellow students to complete a project using Python, creating a head soccer-like game as part of our coursework [Fut Ufba](https://github.com/Erohf/FUT_UFBA).
 
 I have a genuine passion for design and am actively honing my skills in creating exceptional interfaces through the use of Figma. You can see more on my [Behance](https://www.behance.net/Lucas_Andrade_Design).
 
