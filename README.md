@@ -11,7 +11,7 @@ I have a genuine passion for design and am actively honing my skills in creating
 
 
 ### 💻 Projects i made:
-- [Fut Ufba](https://github.com/Erohf/FUT_UFBA): A head soccer like game.
+- [Fut Ufba](https://github.com/Erohf/FUT_UFBA): A head soccer like game using python.
 - [SEMCOMP 2021](https://www.behance.net/gallery/188066677/Semcomp-2021-Website-Design): A website for the annual Salvador Computing Week.
 - [Blury Studios](https://www.behance.net/gallery/189107843/Blury-Studio-2023-Website-Design): A website for Blury Studios.
 
